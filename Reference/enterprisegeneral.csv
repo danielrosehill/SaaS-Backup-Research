@@ -1,0 +1,32 @@
+Category,Description,Examples
+Accounting & Financial Management,Enterprise-level tools for managing accounting, budgeting, and financial planning,SAP S/4HANA, Oracle Financials, NetSuite ERP
+Applicant Tracking Systems (ATS),Tools for managing recruitment and hiring at scale,Workday, Greenhouse, Lever
+Big Data Analytics,Platforms for processing and analyzing vast datasets,Apache Hadoop, Google BigQuery, Databricks
+Business Continuity & Disaster Recovery,Tools to ensure continuous business operations during disasters and outages,VMware Site Recovery, Zerto, Commvault
+Business Intelligence (BI),Software for analyzing complex business data and generating insights,Microsoft Power BI, Tableau, QlikView
+Call Center Software,Platforms for managing inbound and outbound call centers at scale,NICE inContact, Genesys Cloud, Five9
+Cloud Infrastructure Management,Platforms for managing and optimizing cloud infrastructure across regions,Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform
+Collaboration Suites,Comprehensive tools to manage large-scale team collaboration and communication,Microsoft 365, Google Workspace, Cisco Webex
+Compliance Management,Tools for ensuring regulatory compliance across large enterprises,OneTrust, MetricStream, RSA Archer
+Content Delivery Networks (CDN),Platforms to ensure fast and reliable content delivery to users globally,Cloudflare, Akamai, Fastly
+Customer Experience Management (CXM),Platforms for tracking, measuring, and improving customer experience,Adobe Experience Manager, Salesforce Service Cloud, Qualtrics
+Customer Relationship Management (CRM),Enterprise tools for managing sales, customer service, and client relationships,Salesforce, Microsoft Dynamics 365, SAP CRM
+Cybersecurity Threat Detection,Enterprise-level tools for monitoring and protecting against cyber threats,Darktrace, CrowdStrike, Splunk
+Data Governance,Tools for managing and ensuring the quality of enterprise data,Collibra, Informatica, Talend
+Data Integration,Platforms to integrate and manage data from multiple enterprise sources,MuleSoft, Informatica PowerCenter, SnapLogic
+Data Warehousing,Enterprise-level solutions for storing and analyzing data across departments,Amazon Redshift, Snowflake, Teradata
+Digital Asset Management (DAM),Platforms to store, organize, and distribute digital assets across large teams,Bynder, Widen, Adobe Experience Manager
+E-commerce Platforms for Enterprise,Platforms for large-scale e-commerce operations and marketplaces,Magento Commerce, Shopify Plus, SAP Commerce Cloud
+Enterprise Architecture Tools,Tools for managing complex IT infrastructure and organizational design,Ardoq, Software AG Alfabet, Sparx Systems Enterprise Architect
+Enterprise Resource Planning (ERP),Comprehensive tools for managing core business functions,SAP ERP, Oracle ERP Cloud, Microsoft Dynamics 365
+Enterprise Search,Platforms to search and organize data across the entire enterprise,Elastic Enterprise Search, Apache Solr, Microsoft SharePoint
+Environmental, Social, and Governance (ESG),Tools for managing and reporting on ESG initiatives across large organizations,Enablon, Sphera, EcoVadis
+Field Service Management,Platforms for managing field service operations at enterprise scale,ServiceMax, IFS Field Service Management, Oracle Field Service
+Human Capital Management (HCM),Enterprise-level tools for managing HR processes and employee life cycle,Workday, Oracle HCM Cloud, SAP SuccessFactors
+IT Service Management (ITSM),Platforms for managing and optimizing IT services within large organizations,ServiceNow, BMC Helix, Ivanti
+Knowledge Management,Tools for managing and sharing knowledge within large organizations,Confluence, Bloomfire, KnowledgeOwl
+Master Data Management (MDM),Tools for managing and centralizing critical business data,Informatica MDM, SAP Master Data Governance, IBM InfoSphere
+Procurement & Supplier Management,Tools to manage large-scale procurement processes and supplier relationships,Ariba, Coupa, Ivalua
+Risk Management,Tools for managing business risks, compliance, and incident response,RSA Archer, RiskWatch, Resolver
+Supply Chain Management (SCM),Platforms to manage large-scale logistics, supply chain operations, and distribution,SAP SCM, Oracle SCM Cloud, Blue Yonder
+Virtual Desktop Infrastructure (VDI),Tools for providing remote desktop access across enterprise environments,Citrix Virtual Apps, VMware Horizon, Microsoft Azure Virtual Desktop
